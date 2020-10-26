@@ -1,0 +1,17 @@
+{
+  "name": "projeto-uno",
+  "version": "1.0.0",
+  "description": "Jogo de cartas online inspirado no jogo de cartas Uno",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "authors": [
+    "Nathalia Quetsia da Silva Gomes",
+    "Samuel do Amaral Pimentel"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
